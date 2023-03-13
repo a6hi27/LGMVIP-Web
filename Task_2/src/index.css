@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Sintony&display=swap');
+body {
+  font-family: 'Sintony', sans-serif;
+  background: url('https://images.pexels.com/photos/443383/pexels-photo-443383.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2') no-repeat;
+  height: 100%;
+  background-attachment: fixed;
+}
